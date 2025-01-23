@@ -71,7 +71,7 @@ object MySQLConnector extends IOApp.Simple:
       IO {
         val url = "jdbc:mysql://127.0.0.1:3306/scala_test"
         val username = "root"
-        val password = "sebas2005"
+        val password = "passsword"
         DriverManager.getConnection(url, username, password)
       }
     } { conn =>
@@ -98,4 +98,5 @@ object MySQLConnector extends IOApp.Simple:
 ![image](https://github.com/user-attachments/assets/6f497ef0-c132-4890-85fb-7ddd9860f53d)
 
 
-![image](https://github.com/user-attachments/assets/1081cb37-2b60-49a2-8ac5-8dc52cba9781)
+![image](https://github.com/user-attachments/assets/06ae4cbe-6f21-4934-9471-583a9c69f4ba)
+
